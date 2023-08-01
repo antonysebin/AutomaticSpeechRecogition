@@ -1,4 +1,4 @@
-# AutomaticSpeechRecogition
+# AutomaticSpeechRecognition
 Automatic Speech Recognition (ASR) is an exciting field of artificial intelligence that focuses on developing algorithms
  and systems capable of converting spoken language into written text. 
 
